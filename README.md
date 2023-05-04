@@ -10,3 +10,12 @@ rated game on platform: Users can find the highest rated game on a specific plat
 can find the average rating of games of a specific type across all platforms. Newest game by type: Users can find
 the newest game of a specific type. Recommendation by platform: Users can get a list of recommended games based on
 a specific platform and their ratings.
+
+
+how to use it 
+
+just take the GameKB.py and GameChatbotGUI.py files to your pycharm or just to your directory and run the GameChatbotGUI.py file 
+
+# ScreenShot 
+
+![alt text](https://github.com/OmarLkhalil/GameKB/blob/main/chatbotss.png)
